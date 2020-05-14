@@ -2,9 +2,6 @@
 A task for creating some interesting jobs through jenkins
 ---
 
-# Task 2: DevOps
-
-
 Problem Statement:-
 1. Create container image that's has Jenkins installed using Dockerfile
 2. When we launch this image, it should automatically start the Jenkins service in the container.
